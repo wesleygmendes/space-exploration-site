@@ -15,6 +15,7 @@ body{
 }
 #terms{
     background-color:#fafbf4;
+    display:block;
     margin: 0px;
     padding: 20px;
     height:300px;
@@ -23,7 +24,7 @@ body{
 .hero{
     background-image:url("giphy.webp");
     background-size: cover;
-    padding: 10px 0 650px 0px;
+    padding: 10px 0 500px 0px;
 }
 .btn{
     background-color:white;
