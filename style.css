@@ -8,6 +8,16 @@ body{
 #logo{
     width:200px;
 }
+#title{
+    text-shadow: 0px 0px 2.5px white; 
+}
+#terms{
+    background-color:#fafbf4;
+    margin: 0px;
+    padding: 20px;
+    height:300px;
+
+}
 .hero{
     background-image:url("giphy.webp");
     background-size: cover;
